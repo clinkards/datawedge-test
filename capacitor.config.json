@@ -1,0 +1,6 @@
+{
+  "appId": "com.clinkards.datawedgedemo",
+  "appName": "datawedge-demo",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

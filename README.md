@@ -5,20 +5,18 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
 ### Compiles and minifies for production
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Sync Capacitor
 ```
-npm run lint
+npx run sync
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Open Android IDE
+```
+npx cap open android
+```
+

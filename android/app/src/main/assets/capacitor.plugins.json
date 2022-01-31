@@ -1,0 +1,6 @@
+[
+	{
+		"pkg": "capacitor-datawedge",
+		"classpath": "com.jkbz.capacitor.datawedge.DataWedgePlugin"
+	}
+]
